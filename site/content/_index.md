@@ -1,20 +1,66 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Learn.Machine Learning
+subtitle: "Learning Machine Learning and Data Science "
+image: img/learn-machine-learning.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Why Machine Learning?
+  text: Machine learning involves computers discovering how they can perform tasks
+    without being explicitly programmed to do so. It involves computers learning
+    from data provided so that they carry out certain tasks. For simple tasks
+    assigned to computers, it is possible to program algorithms telling the
+    machine how to execute all steps required to solve the problem at hand; on
+    the computer's part, no learning is needed. For more advanced tasks, it can
+    be challenging for a human to manually create the needed algorithms. In
+    practice, it can turn out to be more effective to help the machine develop
+    its own algorithm, rather than having human programmers specify every needed
+    step
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: What we offer
+  text: Machine learning algorithms are used in a wide variety of applications,
+    such as email filtering and computer vision, where it is difficult or
+    unfeasible to develop conventional algorithms to perform the needed tasks. A
+    subset of machine learning is closely related to computational statistics,
+    which focuses on making predictions using computers; but not all machine
+    learning is statistical learning. The study of mathematical optimization
+    delivers methods, theory and application domains to the field of machine
+    learning. Data mining is a related field of study, focusing on exploratory
+    data analysis through unsupervised learning
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/illustrations-coffee.svg
+    text: Data science is an inter-disciplinary field that uses scientific methods,
+      processes, algorithms and systems to extract knowledge and insights from
+      many structural and unstructured data. Data science is related to data
+      mining, machine learning and big data. Data science is a "concept to unify
+      statistics, data analysis and their related methods" in order to
+      "understand and analyze actual phenomena" with data. It uses techniques
+      and theories drawn from many fields within the context of mathematics,
+      statistics, computer science, domain knowledge and information science.
+      Turing award winner Jim Gray imagined data science as a "fourth paradigm"
+      of science and asserted that "everything about science is changing because
+      of the impact of information technology" and the data deluge
+  - image: /img/illustrations-coffee-gear.svg
+    text: Machine learning is the study of computer algorithms that improve
+      automatically through experience. It is seen as a subset of artificial
+      intelligence. Machine learning algorithms build a model based on sample
+      data, known as "training data", in order to make predictions or decisions
+      without being explicitly programmed to do so. Machine learning algorithms
+      are used in a wide variety of applications, such as email filtering and
+      computer vision, where it is difficult or unfeasible to develop
+      conventional algorithms to perform the needed tasks. A subset of machine
+      learning is closely related to computational statistics, which focuses on
+      making predictions using computers; but not all machine learning is
+      statistical learning. The study of mathematical optimization delivers
+      methods, theory and application domains to the field of machine learning.
+      Data mining is a related field of study, focusing on exploratory data
+      analysis through unsupervised learning
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: Machine learning poses a host of ethical questions. Systems which are
+    trained on datasets collected with biases may exhibit these biases upon use
+    (algorithmic bias), thus digitizing cultural prejudices. For example, using
+    job hiring data from a firm with racist hiring policies may lead to a
+    machine learning system duplicating the bias by scoring job applicants
+    against similarity to previous successful applicants. Responsible collection
+    of data and documentation of algorithmic rules used by a system thus is a
+    critical part of machine learning.
 ---
-
